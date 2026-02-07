@@ -5,13 +5,13 @@
   - requirements.txt
   - asl_model(1).h5
 - Android Apps (partially functional)
-  - gesture_recognition.apk
-  - chat_history.apk
+  - landmark_recognition.zip
+  - chat_history.zip
 - PC code (working on asl->text acc)
   - pipeline.py
 
 ## Start guide
-Android Apps: Install seperately
+Android Apps: Unzip and open in Android Studio
 PC/Raspberry Pi python code:
 - install package from requirements.txt
 - modify the model path in the code
