@@ -6,7 +6,9 @@
   - asl_model(1).h5
 - Android Apps (partially functional)
   - landmark_recognition.zip
+    - https://drive.google.com/file/d/1C3aiHfJvuNy3U3xztNuLtisCXGti3Lc-/view?usp=sharing
   - chat_history.zip
+    - https://drive.google.com/file/d/1C4wPIonSMY-pXbPkJcipPjXkQJFcQHS6/view?usp=sharing
 - PC code (working on asl->text acc)
   - pipeline.py
 
